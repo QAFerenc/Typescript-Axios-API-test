@@ -17,6 +17,7 @@ jest testFile.js
       at log (tests/testFile.js:129:25)
 
  PASS  tests/testFile.js
+ 
   GET /health-check
   
     √ should return status code 200 and application/json content type (483 ms)
