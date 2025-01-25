@@ -2,6 +2,8 @@
 
 API testing of user management on a random swagger page  :    https://practice.expandtesting.com/notes/api/api-docs/
 
+Video of the test : https://www.youtube.com/watch?v=W8hubLxIAi4
+
 The file was run from the command line as : jest testFile.js
 
 Test result at running 8 tests : 
