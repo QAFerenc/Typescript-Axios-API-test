@@ -18,17 +18,29 @@ jest testFile.js
 
  PASS  tests/testFile.js
   GET /health-check
+  
     √ should return status code 200 and application/json content type (483 ms)
+  
   POST /users/register
+  
     √ should register a user successfully with status code 200 (375 ms)
+    
     Login API Test
+    
       √ should successfully log in with valid credentials (397 ms)
+      
       √ should successfully log in with valid credentials (398 ms)
+    
     Delete User Account API Test
+    
       √ should successfully delete a user account with a valid token (377 ms)
+    
     Get User Profile API Test
+    
       √ should successfully fetch the user profile with valid token (291 ms)
+    
     Logout API Test
+    
       √ should successfully log out with valid token (308 ms)
 
 
