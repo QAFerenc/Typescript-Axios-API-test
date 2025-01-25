@@ -1,5 +1,6 @@
 # Typescript-Axios-API-test
-API testing of user registration on a random swagger page
+
+API testing of user management on a random swagger page  :    https://practice.expandtesting.com/notes/api/api-docs/
 
 The file was run from the command line as : jest testFile.js
 
