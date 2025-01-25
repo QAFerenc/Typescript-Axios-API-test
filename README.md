@@ -6,6 +6,7 @@ The file was run from the command line as : jest testFile.js
 Test result at running 8 tests : 
 
 jest testFile.js
+
   console.log
     Username: henry
 
